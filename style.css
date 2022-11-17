@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ca{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    top:20px;
+    left: 40px;
+}
+.hamburger{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(61, 15, 230);
+    position: fixed;
+    right: 40px;
+    top: 10px;
+}
+.line{
+    top: 8px;
+    left: 4px;
+    position: relative;
+    width: 40px;
+    height: 10px;
+    border: 2px solid rgb(61, 15, 230);
+    margin-top:1px;
+}
+.click{
+    position: relative;
+    height: 50px;
+    width: 600px;
+    background-color: aqua;
+    top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.clicktext{
+    padding-top: 5px;
+    padding-left: 25px;
+}
